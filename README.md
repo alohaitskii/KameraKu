@@ -148,6 +148,10 @@ null
 
 Ini memastikan foto muncul dalam daftar MediaStore.
 
+Screenshot:
+![Screenshot](https://github.com/alohaitskii/KameraKu/blob/master/screenshots/%7B1029078B-49B1-4305-8A1D-4AB5DBB814DE%7D.png)
+![Screenshot](https://github.com/alohaitskii/KameraKu/blob/master/screenshots/%7BA4B7AFA6-057F-4D9D-A195-E05C25DF8500%7D.png)
+
 
 🚀 Cara Menjalankan
 
